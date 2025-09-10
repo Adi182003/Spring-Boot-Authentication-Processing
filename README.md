@@ -91,3 +91,7 @@ Properties
 # Default security credentials
 spring.security.user.name=your-new-username
 spring.security.user.password=your-new-password
+
+if this steps followed thoroughly the file working will be done smoothly
+
+but must ensure the required installations priority.
